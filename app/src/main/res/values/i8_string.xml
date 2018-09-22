@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="i8_sdk_name">娉娉SDK</string>
+
+    <string name="i8_onlineservice"><u>客服中心在线反馈</u></string>
+
+    <string name="i8_login_input_name_hint">5-15位数字、字母</string>
+    <string name="i8_login_input_password_hint">6-16个字符，区分大小写</string>
+    <string name="i8_login_accountLogin_input_name_hint">请输入帐号</string>
+    <string name="i8_login_accountLogin_input_password_hint">请输入密码</string>
+    <string name="i8_login_input_mobile_number_hint">手机号码</string>
+    <string name="i8_register_mobile_digits">0123456789</string>
+    <string name="i8_register_name_digits">
+        _0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLIMNOPQRSTUVWXYZ@.
+    </string>
+    <string name="i8_register_password_digits">
+        0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLIMNOPQRSTUVWXYZ
+    </string>
+
+    <string name="i8_gettingCapatcha">%ds后重新获取</string>
+
+    <string name="i8_bindAccountTip">帐号关联提示：\n第三方首次登录后，将会关联由系统自动生成的大游帐号，你仅有一次机会修改关联帐号（关联后可用此帐号进行登录）。</string>
+
+    <string name="i8_find_password">找回密码</string>
+    <string name="i8_welcome_to_dayou">欢迎进入大游网络游戏</string>
+    <string name="i8_registered_user">《用户协议》</string>
+    <string name="i8_account_registered">帐户注册</string>
+    <string name="i8_login">登录</string>
+    <string name="i8_forget_password">《隐私政策》</string>
+    <string name="i8_QQ_login">QQ登录</string>
+    <string name="i8_mobile_login">手机登录</string>
+    <string name="i8_other_login">>>其他登录方式</string>
+    <string name="i8_immediately_login"> 立即登录</string>
+    <string name="i8_turnback_to_login">  返回登录</string>
+    <string name="i8_immediately_registered">立即注册</string>
+    <string name="i8_immediately_entry">立即进入</string>
+    <string name="i8_mobile_number">请输入手机号码</string>
+    <string name="i8_check_number">请输入验证码</string>
+    <string name="i8_check_dynamic_number">动态密码</string>
+    <string name="i8_get_check_number">获取动态密码</string>
+    <string name="i8_accept_protocol"> 我已经阅读并同意《大游用户注册服务协议》</string>
+    <string name="i8_other">其他:</string>
+    <string name="i8_mobile_register">手机注册</string>
+    <string name="i8_exchange_account">切换帐号</string>
+    <string name="i8_user_logining_tip">%s,登录中...</string>
+    <string name="i8_send_sms_to_check">将发送短信进行验证</string>
+    <string name="i8_gold_bean">金豆</string>
+    <string name="i8_pay_password">支付密码：</string>
+    <string name="i8_please_input_pay_password">请输入支付密码</string>
+    <string name="i8_didnot_setting_pay_password_tip">尚未设置金豆支付密码，请先</string>
+    <string name="i8_submit_setting">【点击设置】</string>
+    <string name="i8_check_login_password">验证登录密码</string>
+    <string name="i8_input_pay_password">填写支付密码</string>
+    <string name="i8_complete">完成</string>
+    <string name="i8_please_input_dayou_login_password">请输入大游登录密码：</string>
+    <string name="i8_setting_pay_password">设置支付密码：</string>
+    <string name="i8_ensure_pay_password">确认支付密码：</string>
+    <string name="i8_open_pay_password_success_tip">恭喜开通支付密码成功</string>
+    <string name="i8_next_step">下一步</string>
+    <string name="i8_recharge_method">充值方式：</string>
+    <string name="i8_dx_recharge_card">电信充值卡</string>
+    <string name="i8_recharge_number">序列号：</string>
+    <string name="i8_recharge_password">卡密码：</string>
+    <string name="i8_back"> 返回</string>
+    <string name="i8_recharge_center">充值中心</string>
+    <string name="i8_yu_jian_fei_xian">御剑飞仙</string>
+    <string name="i8_recharge_money">￥：%s</string>
+    <string name="i8_recharge_method_ali">支付宝</string>
+    <string name="i8_recharge_method_union_card">银行卡</string>
+    <string name="i8_recharge_method_wechat">微信充值</string>
+    <string name="i8_recharge_method_QQ_wallet">QQ钱包</string>
+    <string name="i8_recharge_method_recharge_card">充值卡</string>
+    <string name="i8_recharge_method_gold_bean">金豆</string>
+    <string name="i8_select_pay_method">选择支付方式</string>
+    <string name="i8_input_setting_email">请输入要设置的邮箱：</string>
+    <string name="i8_input_email">请输入邮箱</string>
+    <string name="i8_input_email_check_number">请输入邮箱验证码</string>
+    <string name="i8_input_bind_phone_number">请输入要绑定的手机号：</string>
+    <string name="i8_input_phone_number">请输入手机号码</string>
+    <string name="i8_input_phone_check_number">请输入手机验证码</string>
+    <string name="i8_this_bind_phone_number">当前绑定手机：</string>
+    <string name="i8_this_bind_ID">已绑定ID：</string>
+    <string name="i8_exchage_bind_tip">请确定是否解除该绑定，重新绑定您\n目前的ID：%s</string>
+    <string name="i8_setting_safety_problem">请设置密保问题：</string>
+    <string name="i8_answer">答案</string>
+    <string name="i8_this_password">当前密码：</string>
+    <string name="i8_input_this_password">请输入当前密码</string>
+    <string name="i8_new_password">新密码：</string>
+    <string name="i8_password_tip">6到16个字符区分大小写</string>
+    <string name="i8_comfirm_new_password">确认新密码：</string>
+    <string name="i8_this_bind_phone">当前绑定手机：</string>
+    <string name="i8_new_bind_phone">新的绑定手机：</string>
+    <string name="i8_input_new_phone_number">请输入新号码</string>
+    <string name="i8_username">用户昵称</string>
+    <string name="i8_userID">ID:%s</string>
+    <string name="i8_login_phone_number">登录手机</string>
+    <string name="i8_use_login">可用于登录</string>
+    <string name="i8_use_find_password">可用于找回密码</string>
+    <string name="i8_is_set">已设置</string>
+    <string name="i8_no_set">未设置</string>
+    <string name="i8_safety_email">密保邮箱</string>
+    <string name="i8_safety_problem">密保问题</string>
+    <string name="i8_safety_phone">密保手机</string>
+    <string name="i8_modify">修改</string>
+    <string name="i8_recharge_contact_QQ282">充值客服QQ：2825349698</string>
+    <string name="i8_recharge_contact_QQ">充值客服QQ</string>
+    <string name="i8_recharge_contact_GM1">客服咨询GM1：1993459356</string>
+    <string name="i8_recharge_contact_GM2">客服咨询GM2：2655937645</string>
+    <string name="i8_my_wallet">我的钱包</string>
+    <string name="i8_bean_extra">金豆余额：</string>
+    <string name="i8_recharge_tip">充值金豆数据：1元=10金豆+10彩贝</string>
+    <string name="i8_100_gold_bean">100金豆</string>
+    <string name="i8_300_gold_bean">300金豆</string>
+    <string name="i8_500_gold_bean">500金豆</string>
+    <string name="i8_1000_gold_bean">1000金豆</string>
+    <string name="i8_3000_gold_bean">3000金豆</string>
+    <string name="i8_5000_gold_bean">5000金豆</string>
+    <string name="i8_10000_gold_bean">10000金豆</string>
+    <string name="i8_30000_gold_bean">30000金豆</string>
+    <string name="i8_50000_gold_bean">50000金豆</string>
+    <string name="i8_10_RMB">（10元）</string>
+    <string name="i8_30_RMB">（30元）</string>
+    <string name="i8_50_RMB">（50元）</string>
+    <string name="i8_100_RMB">（100元）</string>
+    <string name="i8_300_RMB">（300元）</string>
+    <string name="i8_500_RMB">（500元）</string>
+    <string name="i8_1000_RMB">（1000元）</string>
+    <string name="i8_3000_RMB">（3000元）</string>
+    <string name="i8_5000_RMB">（5000元）</string>
+    <string name="i8_customer_input">自定义</string>
+    <string name="i8_customer_input_tip">输入10以上的数量</string>
+    <string name="i8_gold_bean_num">金豆：%s</string>
+    <string name="i8_gold_caibei_num">彩贝：%s</string>
+    <string name="i8_gold_bean_bind_num">金豆(绑定)：%s</string>
+    <string name="i8_recharge_search">充值查询</string>
+    <string name="i8_account_safety">帐户安全：</string>
+    <string name="i8_modify_password">修改密码</string>
+    <string name="i8_safety_center">安全中心</string>
+    <string name="i8_auto_login">自动登录游戏"</string>
+    <string name="i8_pay_complete">支付完成</string>
+    <string name="i8_account">帐户</string>
+    <string name="i8_garden">家园</string>
+    <string name="i8_forum">论坛</string>
+    <string name="i8_gift">礼包</string>
+    <string name="i8_contact">客服</string>
+    <string name="i8_message">消息</string>
+
+    <string name="i8_comfirm_delete">确定删除</string>
+    <string name="i8_comfirm_think">再考虑一下</string>
+    <string name="i8_sure">确定</string>
+
+    <string name="i8_loading">，登录中...</string>
+    <string name="i8_welcome_back">欢迎您回来，</string>
+    <string name="i8_title_mobile_login">手机登录</string>
+    <string name="i8_title_account_login">帐号登录</string>
+    <string name="i8_title_mobile_reg">手机注册</string>
+    <string name="i8_title_account_reg">帐号注册</string>
+    <string name="i8_title_bind_account">帐号关联</string>
+    <string name="i8_please_input_5_12_account">请输入5~12位的帐号</string>
+    <string name="i8_please_input_5_12_passwd">请输入5~12位的密码</string>
+    <string name="i8_send_chptcha_complete">手机验证码已发送，请查看你的手机短信。</string>
+    <string name="i8_please_input_chptcha">手机验证码格式或长度不正确，请重新输入。</string>
+    <string name="i8_please_input_account">请输入帐号</string>
+    <string name="i8_select_account">选择帐号</string>
+    <string name="i8_must_agree_tip">您必须阅读并同意服务协议才能注册！</string>
+    <string name="i8_username_tip">帐号格式不正确，请输入5-15位数字或字母。</string>
+    <string name="i8_username_tip_number">帐号不能为纯数字。</string>
+    <string name="i8_passwd_tip">密码格式不正确，请输入6-16位数字或字母。</string>
+    <string name="i8_mobile_tip">手机号格式不正确或号码不存在，请重新输入。</string>
+    <string name="i8_please_input_right_captcha">请输入右侧验证码</string>
+    <string name="i8_sure_bind">确认关联</string>
+    <string name="i8_captcha_error_tip">验证码输入有误，请重新输入！</string>
+    <string name="i8_input_captcha_tip">请输入验证码</string>
+    <string name="i8_input_captcha_length_tip">验证码长度不对，请重新输入</string>
+    <string name="i8_not_account_history_record">此设备暂无帐号登录记录!</string>
+    <string name="i8_not_mobile_history_record">此设备暂无手机登录记录!</string>
+    <string name="i8_reg_success_tip">恭喜你，注册成功。为你登录中，请稍候…</string>
+    <string name="i8_bind_success_tip">恭喜你,帐号关联成功,以后可用此帐号密码进行登录,请牢记。</string>
+    <string name="i8_send_msm_faile_tip">短信发送失败，请输入你的手机号进行注册。</string>
+    <string name="i8_screen_success_tip">截图成功，已保存到DCIM目录</string>
+    <string name="pinpinhu_request_fail">请求失败</string>
+
+</resources>
